@@ -1,6 +1,6 @@
 ---
 title: 'Domitio'
-tags: ["embedded", "IoT" ]
+tags: ["linux" ]
 published: true
 date: '2013-03-23'
 ---

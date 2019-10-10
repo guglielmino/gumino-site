@@ -1,6 +1,6 @@
 ---
 title: 'Writing Apps for Apple TV for fun and (no) profit'
-tags: ["swift", "appletv" ]
+tags: ["swift", "apple" ]
 published: true
 date: '2016-01-03'
 ---

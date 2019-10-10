@@ -19,16 +19,21 @@ const AboutPage = (props) => {
                     <SEO title="About" />
                     <div className="mt-3">
                         <h2 className="heading">About</h2>
-                        <p><i>I'm Fabrizio, I’m passionate about technology especially when it’s software related..</i></p>
-                        <br />
-                        <div>
-                        <h4>Sponsors</h4>
+                        <p><i>Software is like a superpower, you can change the world  </i>
+                            Born software developer, I can't remeber a time of my life where code wasn't present. 
+                            Crafting products with code is one of the things that gives me fun and satisfaction.
+                        </p>
 
-                        <a className="text-primary ml-4" href="http://www.little-endian.it">
-                        <span title="Little Endian">
-                        <img src={lelogo} style={{ maxWidth: `100px` }}  alt="" />
-                        </span>
-                        </a> 
+                        <br />
+
+                        <div>
+                            <h4>Sponsors</h4>
+
+                            <a className="text-primary ml-4" href="http://www.little-endian.it">
+                                <span title="Little Endian">
+                                    <img src={lelogo} style={{ maxWidth: `100px` }} alt="" />
+                                </span>
+                            </a>
                         </div>
                     </div>
                 </div>

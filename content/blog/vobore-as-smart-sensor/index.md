@@ -1,6 +1,6 @@
 ---
 title: 'VoCore as smart sensor'
-tags: ["Linux", "python" ]
+tags: ["linux", "python" ]
 published: true
 date: '2015-01-18'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Linking iOS App from Web'
-tags: ["swift", "iosip" ]
+tags: ["apple", "swift" ]
 published: true
 date: '2015-07-30'
 ---

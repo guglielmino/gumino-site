@@ -1,6 +1,6 @@
 ---
 title: 'Push notification from Arduino Yún'
-tags: ["arduino" ]
+tags: ["apple", "android" ]
 published: true
 date: '2014-11-16'
 ---

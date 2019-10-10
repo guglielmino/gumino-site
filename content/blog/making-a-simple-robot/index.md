@@ -1,6 +1,6 @@
 ---
 title: 'Making a simple robot'
-tags: ["beaglebond" ]
+tags: ["python" ]
 published: true
 date: '2013-11-02'
 ---

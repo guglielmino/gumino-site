@@ -16,7 +16,14 @@ module.exports = {
   },
   labels: [
     {
-      tag: "react",
+      tag: "raspberrypi",
+      tech: "Raspberry Pi",
+      name: "DiRasberryPi",
+      size: 20,
+      color: "orange",
+    },
+    {
+      tag: "React",
       tech: "React",
       name: "DiReact",
       size: 20,
@@ -106,5 +113,35 @@ module.exports = {
       size: 20,
       color: "deepskyblue",
     },
+    {
+      tag: "linux",
+      tech: "Linux",
+      name: "DiLinux",
+      size: 20,
+      color: "deepskyblue",
+    },
+    {
+      tag: "apple",
+      tech: "Apple",
+      name: "DiApple",
+      size: 20,
+      color: "white"
+    },
+    {
+      tag: "swift",
+      tech: "Swift",
+      name: "DiSwift",
+      size: 20,
+      color: "white"
+    },
+    {
+      tag: "android",
+      tech: "Android",
+      name: "DiAndroid",
+      size: 20,
+      color: "white"
+    },
+    
+    
   ],
 }
