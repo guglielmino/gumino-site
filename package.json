@@ -50,7 +50,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy:github": "npm run build && node ./scripts/deploy-github"
+    "deploy:github":  "gatsby build && gh-pages -d public -b master  --repo https://github.com/guglielmino/guglielmino.github.io" 
   },
   "repository": {
     "type": "git",
